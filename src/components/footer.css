@@ -1,0 +1,77 @@
+label {
+    display: block;
+    margin-top: 10px;
+  }
+  
+  .card-container.card {
+    max-width: 350px !important;
+    padding: 40px 40px;
+  }
+  
+  .card {
+    background-color: #f7f7f7;
+    padding: 20px 25px 30px;
+    margin: 0 auto px;
+    margin-top: 50px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  }
+  
+  .profile-img-card {
+    width: 96px;
+    height: 96px;
+    margin: 0 auto 10px;
+    display: block;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+  }
+  .body{
+    background-color: rgb(36, 61, 48);
+  }
+/*   
+  .Logo {
+    background-image: url(./logo.png);
+  } */
+  
+  .footer{
+    background-color: #273d2a;
+    margin:0px auto;
+    /* padding: 20px 0px 20px 0px; */
+    position:"fixed";
+    top: 'auto';
+   bottom: 0,;
+   visibility:"overline" ;
+   box-align:"center";
+   text-align: center;       
+    
+   
+  }
+  .left{
+    text-align: unset;
+    padding-left: 50px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    margin-top: 0px;
+    text-size-adjust: 110px;
+
+  }
+  .right{
+    text-align: right;
+
+  }
+  .bottom{
+    /* text-align: initial; */
+    text-align: unset;
+
+  }
+  .kela{
+    padding-bottom: 0px;
+  }
+ .col{
+   color: black;
+ }
