@@ -20,7 +20,7 @@ import cartReducer from './reducers/cartReducer';
 import RegisterForm from'./RegisterForm';
 import LocalMallIcon from '@material-ui/icons/LocalMall';
 import './style.css';
-import logo from '/home/uki/Desktop/tastycashew/src/icon/logo.png';
+import logo from '/logo.png';
 import ContactForm from'./ContactForm';
 import About from './About'
 // import Checkout from './Checkout';
